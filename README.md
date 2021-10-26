@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @renatoljohn i'm rookie programmer from 🇧🇷 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me hit me look for me on twitter @renatoljohn
 
 <!---
