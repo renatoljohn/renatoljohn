@@ -3,8 +3,8 @@
 <img align='right' src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif"  height="100">
 
 
-- 👋 Olá, eu sou o @renatoljohn sou um programador novato do 🇧🇷 
-- 🌱 Atualmente estou aprendendo Python e JavaScript
+- 👋 Olá, eu sou o @renatoljohn sou um programador 🇧🇷 
+- 🌱 Atualmente estou aprendendo Ruby para automatizar testes
 - 📫 Como falar comigo, basta me procurar no twitter @renatoljohn 🐦
 
 ----
@@ -26,6 +26,9 @@
   <img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="center" alt="Renato-Boottrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Renato-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Renato-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Renato-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;">
 </div>
 
 ----
