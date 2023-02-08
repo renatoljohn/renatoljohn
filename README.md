@@ -4,7 +4,6 @@
 
 
 - 👋 Olá, eu sou o @renatoljohn sou um programador 🇧🇷 
-- 🌱 Atualmente estou aprendendo Ruby para automatizar testes
 - 📫 Como falar comigo, basta me procurar no twitter @renatoljohn 🐦
 
 ----
