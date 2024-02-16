@@ -12,7 +12,6 @@
 
 <div>
   <a href="https://github.com/renatoljohn">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renatoljohn&count_private=true&include_all_commits=true&show_icons=true&&theme=vision-friendly-dark&icon_color=FFB401&bg_color=8D0D22&hide_border=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoljohn&show_icons=true&&theme=vision-friendly-dark&icon_color=FFB401&bg_color=8D0D22&hide_border=true&layout=compact"/>
   </a>
 </div>
@@ -29,10 +28,8 @@
   <img align="center" alt="Renato-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="max-width: 100%;">
   <img align="center" alt="Renato-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;">
   <img align="center" alt="Renato-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Renato-Playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" style="max-width: 100%; />
+
 </div>
 
 ----
-
-### E os commit como tá?
-
-![Snake animation](https://github.com/renatoljohn/renatoljohn/blob/output/github-contribution-grid-snake.svg)
